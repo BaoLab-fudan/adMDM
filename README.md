@@ -1,7 +1,5 @@
 # Adversarial Representation Learning for Canonical Correlation Analysis
 
-### ICLR 2023 submission
-
 adMDM is a deep learning approach that learns maximally correlated latent representations from multimodal data. This implementation provides source code, simulated data generation tools and demonstrations.
 
 ## Package dependency
